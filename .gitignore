@@ -6,7 +6,7 @@
 .pnp.js
 .yarn/install-state.gz
 
-# testing
+# testinggit remote add origin https://github.com/jwcho99/react-study.git
 /coverage
 
 # next.js
